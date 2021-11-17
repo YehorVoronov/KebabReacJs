@@ -1,0 +1,47 @@
+.fotoDescription{
+display: grid;
+    grid-template-columns: 9fr 3fr ;
+
+    padding-right: 5%;
+
+    /*height: 100px;*/
+    /*padding-bottom: 10px;*/
+
+}
+.h1{
+    /*padding-top: 10%;*/
+    padding-top: 110px;
+    padding-left: 50%;
+    color: white;
+
+    /*text-align: center;*/
+    text-decoration: aliceblue;
+    font-style: italic;
+    font-weight: bold;
+    font-size: xx-large ;
+}
+ .h2 img {
+     padding-top: 60px;
+   /* margin-top: 20%;*/
+     /*margin-right: 5%;*/
+      /*padding-right: 20%;*/
+   /*  alignment: right;*/
+    height: 200px;
+    width: 200px;
+    border-radius: 60%;
+}
+a:hover{
+    color: aqua;
+}
+a{
+    text-decoration: none;
+}
+/*.Network img{
+    size: 20px;
+}*/
+
+/*
+.goToMenu{
+    margin-top: 20px;
+}
+*/

@@ -1,0 +1,24 @@
+.networks{
+    float: right;
+   /* padding-right: 5%;*/
+}
+.networks img{
+height: 50px;
+}
+
+@media (min-width: 800px) {
+    .networks{
+padding-right: 2%;
+    }
+}
+@media (min-width: 910px) {
+    .networks{
+        padding-right: 7%;
+    }
+}
+@media (min-width: 1200px) {
+    .networks{
+        padding-right: 10%;
+    }
+}
+

@@ -1,0 +1,44 @@
+.allBody {
+    color: white;
+    /*height: 1000px;*/
+    background-image: url("../../src/img/grilled-beef-kebab-doner-wrap-onion-parsley-tomato-reflective-blčack-backgrund-corn-black-background-stock-photo-215220413.jpg");
+   background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+
+}
+button{
+    width: 150px;
+    height: 20px;
+    border-radius: 20%;
+    font-style: italic;
+    font-weight: bold;
+}
+.downButton button{
+    margin-top: 5%;
+    margin-left: 10%;
+    padding-left: 10%;
+    width: 80%;
+    height: 10%;
+    border-radius: 10px;
+    font-style: italic;
+    font-weight: bold;
+}
+/*.floatProduct{
+    float: left;
+
+}*/
+.order{
+  /*  margin-top: 200%;*/
+    float: left;
+}
+.basketFooter{
+    width: 100px;
+/*    padding-top: 20px;*/
+    /*float: left;*/
+    padding-top: 110%;
+
+}
+/*.downButton button{
+    float: right;
+}*/

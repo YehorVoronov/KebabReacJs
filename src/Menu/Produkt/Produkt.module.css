@@ -1,0 +1,56 @@
+.productDescription{
+    float: left;
+    padding-left: 4%;
+}
+.allProduct button{
+    height: 60%;
+    width: 80%;
+    border-radius: 10px;
+}
+.mathButton button{
+    width: 20%;
+    border-radius: 5px;
+    background-color: white;
+}
+.mathButton{
+    margin-top: 10%;
+}
+.allProduct{
+    padding-top: 2%;
+    margin-top: 8%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+    color: black;
+    background-color: white;
+    border-radius: 10%;
+    opacity: 0.9;
+
+    float: left;
+
+}
+.allProduct img{
+    width: 80%;
+}
+
+
+@media screen and (min-width: 400px) {
+    .allProduct{
+        padding-bottom: 10px;
+        text-align: center;
+        color: black;
+        background-color: white;
+        border-radius: 10%;
+        opacity: 0.9;
+        width: 300px;
+        margin-top: 2%;
+        /*float: left;*/
+        margin-left:10px;
+        margin-right:10px;
+
+    }
+}
+@media screen and (max-width: 620px) {
+
+}

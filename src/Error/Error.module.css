@@ -1,0 +1,14 @@
+.background{
+    background-image:url("./../img/doner-kebab-rotating-vertical-spit-east-black-background-168316097.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    height: 1000px;
+}
+.error{
+    color: white;
+    text-align: center;
+    font-size: xxx-large;
+    padding-top: 30%;
+    padding-left: 10%;
+}
